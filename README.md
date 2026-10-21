@@ -24,7 +24,7 @@ A fictional aggregates producer is sourcing tires for a 40-truck haul fleet unde
 ## Result (on the invented inputs)
 - The lowest unit-price bidder (Prairie Rubber) has the highest 5-year NPV cost, about $427K (15.2%) more than the lowest-cost bidder, because shorter tire life and more early failures drive replacement and downtime costs.
 - The highest unit-price bidder (Summit Tread) has the lowest 5-year NPV cost and the top weighted score, and wins in all four sensitivity scenarios.
-- Recommended negotiation levers: longer payment terms, a written escalation cap, a lead-time service level, and faster warranty-credit payment.
+- Recommended negotiation levers: longer payment terms, a written escalation cap, a lead-time service level, faster warranty-credit payment, and a freight rate at or below the competing bids.
 
 The outcome follows from the inputs I chose. The point of the exercise is the method: comparing bids on TCO rather than unit price, and testing whether the decision is robust.
 
